@@ -60,7 +60,7 @@
 	<script type="text/javascript">
 	Reveal.addEventListener( 'section01', function() {
 
-var vh = window.innerHeight/100 //creating a duplicate viewport height unit
+var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit
 
 // set the dimensions and margins of the graph
 var margin = {top: 0*vh, right: 1*vh, bottom: 0*vh, left: 1*vh},
@@ -254,7 +254,7 @@ var svg_node = xml
 d3.csv("data/rs_strength_bar_chart.csv", function(data) {
 
 
-var vh = window.innerHeight/100 //creating a duplicate viewport height unit
+var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit
 
 
 var margin = {top: 2*vh, right: 3*vh, bottom: 4*vh, left: 8*vh},
@@ -418,7 +418,7 @@ svg
 
 		d3.json("data/india_4_rs.geojson", function (json) {
 
-			var vh = window.innerHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+			var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
 
 var margin = {top: 0*vh, right: 0*vh, bottom: 1*vh, left: 0*vh},
     w = (50*vh) - margin.left - margin.right,
@@ -933,7 +933,7 @@ map.append("text")
 d3.csv("data/alliances_strength_combined.csv", function(error, data) {
   if (error) throw error;
 
-var vh = window.innerHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
 
 
 var margin = {top: 2*vh, right: 2*vh, bottom: 3*vh, left: 6*vh},
@@ -1080,7 +1080,7 @@ var valueline2 = d3.line()
 d3.csv("data/alliances_strength_combined.csv", function(error, data) {
   if (error) throw error;
 
-var vh = window.innerHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
 
 var margin = {top: 2*vh, right: 2*vh, bottom: 3*vh, left: 6*vh},
     width = (50*vh) - margin.left - margin.right,
@@ -1224,7 +1224,7 @@ var valueline2 = d3.line()
 	<script type="text/javascript">
 	Reveal.addEventListener( 'section03', function() {
 
-var vh = window.innerHeight/100;
+var vh = document.documentElement.clientHeight/100;
 
 // set the dimensions and margins of the graph
 var margin1 = {top: 0*vh, right: 0*vh, bottom: 0*vh, left: 0*vh},
@@ -1289,8 +1289,8 @@ var svg2 = d3
               .select('#section03b_container')
               .html('')
               .append('svg')
-              .attr('height', window.innerHeight * 0.1)
-    		  //.attr('width', window.innerHeight * 0.8)
+              .attr('height', document.documentElement.clientHeight * 0.1)
+    		  //.attr('width', document.documentElement.clientHeight * 0.8)
     		    ;
 */
 
@@ -1384,8 +1384,8 @@ var svg2 = d3
 			    //width: 1024,
 			    //height: 768,
 			    
-			    //height: window.innerHeight * 0.9,
-				//width: window.innerHeight * 0.57
+			    //height:window.innerHeight*0.9,
+				//width:window.innerHeight*0.57
 			    margin: 0.04,
 				minScale: 0.2,
 				maxScale: 2.0,
@@ -1406,8 +1406,10 @@ var svg2 = d3
 			});
 
 			   Reveal.configure({
-							     height: window.innerHeight,
-							     width: window.innerHeight * 0.5
+							     //height: window.innerHeight,
+							     //width: window.innerHeight * 0.5
+							     height: document.documentElement.clientHeight,
+							     width: document.documentElement.clientHeight * 0.5
 							   })
 			   				;
 
