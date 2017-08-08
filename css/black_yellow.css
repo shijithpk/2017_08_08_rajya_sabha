@@ -149,7 +149,7 @@ text.legend {
 .reveal p{
   font-size: 2.5vh;
   font-family: "Khula", sans-serif;
-  margin: 1.5vh 0;  /*this is the space between paras */
+  margin: 0.5vh 1.5vh 0.5vh 1.5vh;  /*space around paras, top, right, bottom, left*/
   line-height: 1.3; 
 }
 
