@@ -1,0 +1,246 @@
+seat_number,state,notification_date,retirement_date,diff_dates,party_short,party_full,alliance,name,cycle_category,notes,poll_notification_url
+1,Gujarat,19-08-2011,18-08-2017,2191,BJP,Bharatiya Janta Party,NDA,"Irani, Smt. Smriti Zubin",A,3 out of 3,http://eci.nic.in/eci_main1/current/pn20062011A.pdf
+2,Gujarat,19-08-2011,18-08-2017,2191,BJP,Bharatiya Janta Party,NDA,"Pandya, Shri Dilipbhai",A,3 out of 3,http://eci.nic.in/eci_main1/current/pn20062011A.pdf
+3,Gujarat,19-08-2011,18-08-2017,2191,INC,Indian National Congress,UPA,"Patel, Shri Ahmed",A,3 out of 3,http://eci.nic.in/eci_main1/current/pn20062011A.pdf
+4,West Bengal,19-08-2017,18-08-2023,2191,INC,Indian National Congress,UPA,"Bhattacharya, Shri P.",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN59_14112017.pdf
+5,West Bengal,19-08-2017,18-08-2023,2191,AITC,All India Trinamool Congress,0,"Sen, Ms. Dola",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN59_14112017.pdf
+6,West Bengal,19-08-2017,18-08-2023,2191,AITC,All India Trinamool Congress,0,"Chetri, Santa",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN59_14112017.pdf
+7,West Bengal,19-08-2017,18-08-2023,2191,AITC,All India Trinamool Congress,0,"O Brien, Shri Derek",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN59_14112017.pdf
+8,West Bengal,19-08-2017,18-08-2023,2191,AITC,All India Trinamool Congress,0,"Roy, Shri Sukhendu Sekhar",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN59_14112017.pdf
+9,West Bengal,19-08-2017,18-08-2023,2191,AITC,All India Trinamool Congress,0,"Bhunia, Manas",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN59_14112017.pdf
+10,Delhi,28-01-2012,27-01-2018,2191,INC,Indian National Congress,UPA,"Dwivedi, Shri Janardan",A,separate election,http://eci.nic.in/eci_main1/current/PN19122011.pdf
+11,Delhi,28-01-2012,27-01-2018,2191,INC,Indian National Congress,UPA,"Hashmi, Shri Parvez",B,separate election,http://eci.nic.in/eci_main1/current/PN19122011.pdf
+12,Delhi,28-01-2012,27-01-2018,2191,INC,Indian National Congress,UPA,"Karan Singh, Dr.",C,separate election,http://eci.nic.in/eci_main1/current/PN19122011.pdf
+13,Sikkim,24-02-2012,23-02-2018,2191,SDF,Sikkim Democratic Front,NDA,"Lachungpa, Shri Hishey",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN412012.pdf
+14,Andhra Pradesh,03-04-2012,02-04-2018,2190,TDP,Telugu Desam,NDA,"Goud T., Shri Devender",A,"6 elected, 3 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+15,Andhra Pradesh,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Chiranjeevi, Dr. K.",A,"6 elected, 3 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+16,Andhra Pradesh,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Chowdhury, Smt. Renuka",A,"6 elected, 3 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+17,Bihar,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Pradhan, Shri Dharmendra",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+18,Bihar,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Prasad, Shri Ravi Shankar",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+19,Bihar,03-04-2012,02-04-2018,2190,JD(U),Janata Dal (United),NDA,"Ansari, Shri Ali Anwar",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+20,Bihar,03-04-2012,02-04-2018,2190,JD(U),Janata Dal (United),NDA,"Mahendra Prasad, Dr.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+21,Bihar,03-04-2012,02-04-2018,2190,JD(U),Janata Dal (United),NDA,"Sahani, Dr. Anil Kumar",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+22,Bihar,03-04-2012,02-04-2018,2190,JD(U),Janata Dal (United),NDA,"Singh, Shri Bashistha Narain",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+23,Chhattisgarh,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Jangde, Dr. Bhushan Lal",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+24,Gujarat,07-06-2016,02-04-2018,664,BJP,Bharatiya Janta Party,NDA,"Rupala, Shri Parshottam",A,,http://indiatoday.intoday.in/story/parshottam-rupala-elected-to-rajya-sabha-from-gujarat/1/684680.html
+25,Gujarat,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Jaitley, Shri Arun",A,"4 elected, 3 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+26,Gujarat,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Mandaviya, Shri Mansukh L.",A,"4 elected, 3 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+27,Gujarat,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Vegad, Shri Shankarbhai N.",A,"4 elected, 3 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+28,Haryana,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Batra, Shri Shadi Lal",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+29,Himachal Pradesh,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Nadda, Shri Jagat Prakash",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+30,Karnataka,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Patil, Shri Basawaraj",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+31,Karnataka,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Rangasayee Ramakrishna, Shri",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+32,Karnataka,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Khan, Shri K. Rahman",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+33,Karnataka,03-04-2012,02-04-2018,2190,IND.,Independent,0,"Chandrasekhar, Shri Rajeev",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+34,Madhya Pradesh,07-10-2016,02-04-2018,542,BJP,Bharatiya Janta Party,NDA,"Ganesan, Shri La.",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN57_19092016.pdf
+35,Madhya Pradesh,15-09-2014,02-04-2018,1295,BJP,Bharatiya Janta Party,NDA,"Jain, Shri Meghraj",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN27_27052014.pdf
+36,Madhya Pradesh,13-06-2014,02-04-2018,1389,BJP,Bharatiya Janta Party,NDA,"Javadekar, Shri Prakash",,,http://www.ndtv.com/bhopal-news/prakash-javadekar-declared-elected-as-rajya-sabha-member-from-madhya-pradesh-577560
+37,Madhya Pradesh,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Gehlot, Shri Thaawar Chand",A,"5 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+38,Madhya Pradesh,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Chaturvedi, Shri Satyavrat",A,"5 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+39,Maharashtra,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Sancheti, Shri Ajay",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+40,Maharashtra,03-04-2012,02-04-2018,2190,SS,Shiv Sena,NDA,"Desai, Shri Anil",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+41,Maharashtra,10-01-2013,02-04-2018,1908,INC,Indian National Congress,UPA,"Patil, Smt. Rajani",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN_18122012.pdf
+42,Maharashtra,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Shukla, Shri Rajeev",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+43,Maharashtra,03-04-2012,02-04-2018,2190,NCP,Nationalist Congress Party,0,"Chavan, Smt. Vandana",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+44,Maharashtra,03-04-2012,02-04-2018,2190,NCP,Nationalist Congress Party,0,"Tripathi, Shri D.P.",A,"6 elected, 5 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+45,Telangana,02-06-2014,02-04-2018,1400,TDP,Telugu Desam,NDA,"Ramesh, Shri C.M.",A,"notification date same, retirement different",http://www.thehindu.com/news/national/andhra-pradesh/draw-of-lots-decides-rajya-sabha-members-for-telangana-andhra/article6066870.ece
+46,Telangana,02-06-2014,02-04-2018,1400,INC,Indian National Congress,UPA,"Rapolu, Shri Ananda Bhaskar",A,"notification date same, retirement different",http://www.thehindu.com/news/national/andhra-pradesh/draw-of-lots-decides-rajya-sabha-members-for-telangana-andhra/article6066870.ece
+47,Telangana,VACANT,02-04-2018,,VACANT,VACANT,0,VACANT,A,,http://www.thehindu.com/news/national/andhra-pradesh/draw-of-lots-decides-rajya-sabha-members-for-telangana-andhra/article6066870.ece
+48,Uttar Pradesh,03-04-2012,02-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Katiyar, Shri Vinay",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+49,Uttar Pradesh,14-12-2013,02-04-2018,1570,INC,Indian National Congress,UPA,"Tiwari, Shri Pramod",A,"2 elected, 1 retiring",http://eci.nic.in/eci_main1/current/PN_29112013.pdf
+50,Uttar Pradesh,03-04-2012,02-04-2018,2190,BSP,Bahujan Samaj Party,0,"Ali, Shri Munquad",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+51,Uttar Pradesh,19-06-2012,02-04-2018,2113,SP,Samajwadi Party,0,"Tiwari, Shri Alok",A,1 out of 1,http://eci.nic.in/eci_main1/current/Pn242012_28.pdf
+52,Uttar Pradesh,03-04-2012,02-04-2018,2190,SP,Samajwadi Party,0,"Agrawal, Shri Naresh",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+53,Uttar Pradesh,03-04-2012,02-04-2018,2190,SP,Samajwadi Party,0,"Bachchan, Smt. Jaya",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+54,Uttar Pradesh,03-04-2012,02-04-2018,2190,SP,Samajwadi Party,0,"Nanda, Shri Kiranmay",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+55,Uttar Pradesh,03-04-2012,02-04-2018,2190,SP,Samajwadi Party,0,"Saleem, Chaudhary Munvvar",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+56,Uttar Pradesh,03-04-2012,02-04-2018,2190,SP,Samajwadi Party,0,"Yadav, Shri Darshan Singh",A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+57,Uttar Pradesh,VACANT,02-04-2018,,VACANT,VACANT,0,VACANT,A,"10 elected, 8 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+58,Uttarakhand,03-04-2012,02-04-2018,2190,INC,Indian National Congress,UPA,"Mahra, Shri Mahendra Singh",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+59,West Bengal,03-04-2012,02-04-2018,2190,AITC,All India Trinamool Congress,0,"Ghosh, Shri Kunal Kumar",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+60,West Bengal,03-04-2012,02-04-2018,2190,AITC,All India Trinamool Congress,0,"Gupta, Shri Vivek",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+61,West Bengal,03-04-2012,02-04-2018,2190,AITC,All India Trinamool Congress,0,"Haque, Shri Md. Nadimul",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+62,West Bengal,03-04-2012,02-04-2018,2190,AITC,All India Trinamool Congress,0,"Roy, Shri Mukul",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+63,West Bengal,03-04-2012,02-04-2018,2190,CPI(M),Communist Party Of India (Marxist),0,"Sen, Shri Tapan Kumar",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+64,Odisha,26-06-2014,03-04-2018,1377,BJD,Biju Janata Dal,0,"Deo, Shri A.U. Singh",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN27_27052014.pdf
+65,Odisha,04-04-2012,03-04-2018,2190,BJD,Biju Janata Dal,0,"Tirkey, Shri Dilip Kumar",A,"3 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+66,Odisha,04-04-2012,03-04-2018,2190,IND.,Independent,0,"Swamy, Shri A.V.",A,"3 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN03032012.pdf
+67,Rajasthan,04-04-2012,03-04-2018,2190,BJP,Bharatiya Janta Party,NDA,"Yadav, Shri Bhupender",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+68,Rajasthan,04-04-2012,03-04-2018,2190,INC,Indian National Congress,UPA,"Budania, Shri Narendra",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+69,Rajasthan,04-04-2012,03-04-2018,2190,INC,Indian National Congress,UPA,"Singhvi, Dr. Abhishek Manu",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN03032012.pdf
+70,Nominated,27-04-2012,26-04-2018,2190,NOM.,Nominated,0,"Aga, Ms. Anu",A,,
+71,Nominated,27-04-2012,26-04-2018,2190,NOM.,Nominated,0,"Rekha, Ms.",A,,
+72,Nominated,27-04-2012,26-04-2018,2190,NOM.,Nominated,0,"Tendulkar, Shri Sachin Ramesh",A,,
+73,Jharkhand,04-05-2012,03-05-2018,2190,INC,Indian National Congress,UPA,"Balmuchu, Dr. Pradeep Kumar",A,2 out of 2,http://eci.nic.in/eci_main1/current/pn1042012.pdf
+74,Jharkhand,04-05-2012,03-05-2018,2190,JMM,Jharkhand Mukti Morcha,0,"Sanjiv Kumar, Shri",A,2 out of 2,http://eci.nic.in/eci_main1/current/pn1042012.pdf
+75,Nominated,29-06-2012,28-06-2018,2190,NOM.,Nominated,0,"Parasaran, Shri K.",A,,
+76,Kerala,02-07-2012,01-07-2018,2190,INC,Indian National Congress,UPA,"Kurien, Prof. P.J.",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN01062012.pdf
+77,Kerala,02-07-2012,01-07-2018,2190,KC(M),Kerala Congress (M),UPA,"Abraham, Shri Joy",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN01062012.pdf
+78,Kerala,02-07-2012,01-07-2018,2190,CPI(M),Communist Party Of India (Marxist),0,"Narayanan, Shri C.P.",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN01062012.pdf
+79,Assam,15-06-2013,14-06-2019,2190,INC,Indian National Congress,UPA,"Kujur, Shri Santiuse",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_02052013.pdf
+80,Assam,15-06-2013,14-06-2019,2190,INC,Indian National Congress,UPA,"Singh, Dr. Manmohan",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_02052013.pdf
+81,Tamil Nadu,25-07-2013,24-07-2019,2190,DMK,Dravida Munetra Kazhagam,UPA,"Kanimozhi, Smt.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_04062013.pdf
+82,Tamil Nadu,25-07-2013,24-07-2019,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Arjunan, Shri K. R.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_04062013.pdf
+83,Tamil Nadu,25-07-2013,24-07-2019,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Lakshmanan, Dr. R.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_04062013.pdf
+84,Tamil Nadu,25-07-2013,24-07-2019,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Maitreyan, Dr. V.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_04062013.pdf
+85,Tamil Nadu,25-07-2013,24-07-2019,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Rathinavel, Shri T.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_04062013.pdf
+86,Tamil Nadu,25-07-2013,24-07-2019,2190,CPI,Communist Party Of India,0,"Raja, Shri D.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_04062013.pdf
+87,Nominated,25-02-2014,24-02-2020,2190,NOM.,Nominated,0,"Tulsi, Shri K.T.S.",A,,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+88,Maharashtra,14-03-2015,02-04-2020,1846,BJP,Bharatiya Janta Party,NDA,"Sable, Shri Amar Shankar",A,1 out of 1,http://eci.nic.in/eci_main1/current/PressNote20_27022015.pdf
+89,Maharashtra,03-04-2014,02-04-2020,2191,SS,Shiv Sena,NDA,"Dhoot, Shri Rajkumar",A,"7 elected, 6 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+90,Maharashtra,03-04-2014,02-04-2020,2191,INC,Indian National Congress,UPA,"Dalwai, Shri Husain",A,"7 elected, 6 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+91,Maharashtra,03-04-2014,02-04-2020,2191,IND.,Independent,0,"Kakade, Shri Sanjay Dattatraya",A,"7 elected, 6 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+92,Maharashtra,03-04-2014,02-04-2020,2191,NCP,Nationalist Congress Party,0,"Memon, Shri Majeed",A,"7 elected, 6 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+93,Maharashtra,03-04-2014,02-04-2020,2191,NCP,Nationalist Congress Party,0,"Pawar, Shri Sharad",A,"7 elected, 6 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+94,Maharashtra,03-04-2014,02-04-2020,2191,RPI(A),Republican Party of India (A),0,"Athawale, Shri Ramdas",A,"7 elected, 6 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+95,Odisha,03-04-2014,02-04-2020,2191,INC,Indian National Congress,UPA,"Biswal, Shri Ranjib",A,"4 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+96,Odisha,07-12-2015,02-04-2020,1578,BJD,Biju Janata Dal,0,"Swain, Shri Narendra Kumar",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN64_18112015.pdf
+97,Odisha,13-06-2014,02-04-2020,2120,BJD,Biju Janata Dal,0,"Mohanty, Shri Anubhav",,,http://economictimes.indiatimes.com/news/politics-and-nation/naveen-patnaik-names-film-actor-anubhav-mohanty-as-bjds-rs-candidate/articleshow/36109039.cms
+98,Odisha,03-04-2014,02-04-2020,2191,BJD,Biju Janata Dal,0,"Hembram, Smt. Sarojini",A,"4 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+99,Tamil Nadu,03-04-2014,02-04-2020,2191,DMK,Dravida Munetra Kazhagam,UPA,"Siva, Shri Tiruchi",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+100,Tamil Nadu,03-04-2014,02-04-2020,2191,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Muthukaruppan, Shri S.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+101,Tamil Nadu,03-04-2014,02-04-2020,2191,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Sasikala Pushpa, Smt.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+102,Tamil Nadu,03-04-2014,02-04-2020,2191,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Selvaraj, Shri A. K.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+103,Tamil Nadu,03-04-2014,02-04-2020,2191,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Vijila Sathyananth, Smt.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+104,Tamil Nadu,03-04-2014,02-04-2020,2191,CPI(M),Communist Party Of India (Marxist),0,"Rangarajan, Shri T.K.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+105,West Bengal,14-03-2017,02-04-2020,1115,AITC,All India Trinamool Congress,0,"Gupta, Shri Manish",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN19_21022017.pdf
+106,West Bengal,03-04-2014,02-04-2020,2191,AITC,All India Trinamool Congress,0,"Chowdhury, Prof. Jogen",A,"5 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+107,West Bengal,03-04-2014,02-04-2020,2191,AITC,All India Trinamool Congress,0,"Hassan, Shri Ahamed",A,"5 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+108,West Bengal,03-04-2014,02-04-2020,2191,AITC,All India Trinamool Congress,0,"Singh, Dr. Kanwar Deep",A,"5 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+109,West Bengal,03-04-2014,02-04-2020,2191,CPI(M),Communist Party Of India (Marxist),0,"Banerjee, Shri Ritabrata",A,"5 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+110,Andhra Pradesh,10-04-2014,09-04-2020,2191,TDP,Telugu Desam,NDA,"Seetharama Lakshmi, Smt. Thota",A,"6 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+111,Andhra Pradesh,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Khan, Shri Mohd. Ali",A,"6 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+112,Andhra Pradesh,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Reddy, Dr. T. Subbarami",A,"6 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+113,Andhra Pradesh,10-04-2014,09-04-2020,2191,TRS,Telangana Rashtra Samithi,0,"Rao, Dr. K. Keshava",A,"6 elected, 4 retiring",http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+114,Assam,10-04-2014,09-04-2020,2191,BPF,Bodoland People's Front,NDA,"Daimary, Shri Biswajit",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+115,Assam,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Kalita, Shri Bhubaneswar",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+116,Assam,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Sinh, Dr. Sanjay",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+117,Bihar,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Sinha, Shri R. K.",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+118,Bihar,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Thakur, Dr. C.P.",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+119,Bihar,10-04-2014,09-04-2020,2191,JD(U),Janata Dal (United),NDA,"Harivansh, Shri",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+120,Bihar,10-04-2014,09-04-2020,2191,JD(U),Janata Dal (United),NDA,"Perween, Smt. Kahkashan",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+121,Bihar,10-04-2014,09-04-2020,2191,JD(U),Janata Dal (United),NDA,"Thakur, Shri Ram Nath",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+122,Chhattisgarh,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Judev, Shri Ranvijay Singh",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+123,Chhattisgarh,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Vora, Shri Motilal",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+124,Gujarat,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Gohel, Shri Chunibhai Kanjibhai",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+125,Gujarat,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Tundiya, Mahant Shambhuprasadji",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+126,Gujarat,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Vadodia, Shri Lal Sinh",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+127,Gujarat,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Mistry, Shri Madhusudan",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+128,Haryana,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Selja, Kumari",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+129,Haryana,10-04-2014,09-04-2020,2191,INLD,Indian National Lok Dal,0,"Kashyap, Shri Ram Kumar",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+130,Himachal Pradesh,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Thakur, Smt. Viplove",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+131,Jharkhand,10-04-2014,09-04-2020,2191,IND.,Independent,0,"Nathwani, Shri Parimal",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+132,Jharkhand,10-04-2014,09-04-2020,2191,RJD,Rashtriya Janata Dal,0,"Gupta, Shri Prem Chand",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+133,Madhya Pradesh,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Jatiya, Dr. Satyanarayan",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+134,Madhya Pradesh,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Jha, Shri Prabhat",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+135,Madhya Pradesh,10-04-2014,09-04-2020,2191,INC,Indian National Congress,UPA,"Singh, Shri Digvijaya",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+136,Manipur,29-05-2017,09-04-2020,1046,BJP,Bharatiya Janta Party,NDA,"Singh, Shri K. Bhabananda",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN36_03052017.pdf
+137,Rajasthan,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Dudi, Shri Ram Narain",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+138,Rajasthan,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Goel, Shri Vijay",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+139,Rajasthan,10-04-2014,09-04-2020,2191,BJP,Bharatiya Janta Party,NDA,"Panchariya, Shri Narayan Lal",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+140,Telangana,02-06-2014,09-04-2020,2138,TDP,Telugu Desam,NDA,"Rao, Shri Garikapati Mohan",A,"notification date same, retirement different",http://www.thehindu.com/news/national/andhra-pradesh/draw-of-lots-decides-rajya-sabha-members-for-telangana-andhra/article6066870.ece
+141,Telangana,02-06-2014,09-04-2020,2138,INC,Indian National Congress,UPA,"Rao, Dr. K.V.P. Ramachandra",A,"notification date same, retirement different",http://www.thehindu.com/news/national/andhra-pradesh/draw-of-lots-decides-rajya-sabha-members-for-telangana-andhra/article6066870.ece
+142,Meghalaya,13-04-2014,12-04-2020,2191,INC,Indian National Congress,UPA,"Syiem, Smt. Wansuk",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN_13012014.pdf
+143,Arunachal Pradesh,24-06-2014,23-06-2020,2191,INC,Indian National Congress,UPA,"Mukut Mithi, Shri",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN25_19052014.pdf
+144,Karnataka,26-06-2014,25-06-2020,2191,BJP,Bharatiya Janta Party,NDA,"Kore, Dr. Prabhakar",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN25_19052014.pdf
+145,Karnataka,26-06-2014,25-06-2020,2191,INC,Indian National Congress,UPA,"Gowda, Prof. M.V. Rajeev",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN25_19052014.pdf
+146,Karnataka,26-06-2014,25-06-2020,2191,INC,Indian National Congress,UPA,"Hariprasad, Shri B.K.",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN25_19052014.pdf
+147,Karnataka,26-06-2014,25-06-2020,2191,JD(S),Janata Dal (Secular),0,"Reddy, Shri D. Kupendra",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN25_19052014.pdf
+148,Mizoram,19-07-2014,18-07-2020,2191,INC,Indian National Congress,UPA,"Tlau, Shri Ronald Sapa",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN25_19052014.pdf
+149,Uttar Pradesh,26-11-2014,25-11-2020,2191,INC,Indian National Congress,UPA,"Punia, Shri P.L.",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+150,Uttar Pradesh,26-11-2014,25-11-2020,2191,BSP,Bahujan Samaj Party,0,"Rajaram, Shri",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+151,Uttar Pradesh,26-11-2014,25-11-2020,2191,BSP,Bahujan Samaj Party,0,"Singh, Shri Veer",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+152,Uttar Pradesh,26-11-2014,25-11-2020,2191,SP,Samajwadi Party,0,"Khan, Shri Javed Ali",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+153,Uttar Pradesh,26-11-2014,25-11-2020,2191,SP,Samajwadi Party,0,"Shekhar, Shri Neeraj",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+154,Uttar Pradesh,26-11-2014,25-11-2020,2191,SP,Samajwadi Party,0,"Tazeen Fatma, Dr.",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+155,Uttar Pradesh,26-11-2014,25-11-2020,2191,SP,Samajwadi Party,0,"Verma, Shri Ravi Prakash",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+156,Uttar Pradesh,26-11-2014,25-11-2020,2191,SP,Samajwadi Party,0,"Yadav, Dr. Chandrapal Singh",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+157,Uttar Pradesh,26-11-2014,25-11-2020,2191,SP,Samajwadi Party,0,"Yadav, Prof. Ram Gopal",A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+158,Uttar Pradesh,VACANT,25-11-2020,,VACANT,VACANT,0,VACANT,A,10 out of 10,http://eci.nic.in/eci_main1/current/PN55_27102014.pdf
+159,Uttarakhand,14-03-2015,25-11-2020,2083,INC,Indian National Congress,UPA,"Babbar, Shri Raj",A,1 out of 1,http://eci.nic.in/eci_main1/current/PressNote20_27022015.pdf
+160,Jammu & Kashmir,11-02-2015,10-02-2021,2191,BJP,Bharatiya Janta Party,NDA,"Manhas, Shri Shamsher Singh",A,4 out of 4,http://eci.nic.in/eci_main1/current/Press%20Note-51201.pdf
+161,Jammu & Kashmir,11-02-2015,10-02-2021,2191,J&K PDP,Jammu & Kashmir Peoples Democratic Party,NDA,"Fayaz, Mir Mohammad",A,4 out of 4,http://eci.nic.in/eci_main1/current/Press%20Note-51201.pdf
+162,Jammu & Kashmir,16-02-2015,15-02-2021,2191,J&K PDP,Jammu & Kashmir Peoples Democratic Party,NDA,"Laway, Shri Nazir Ahmed",A,4 out of 4,http://eci.nic.in/eci_main1/current/Press%20Note-51201.pdf
+163,Jammu & Kashmir,16-02-2015,15-02-2021,2191,INC,Indian National Congress,UPA,"Azad, Shri Ghulam Nabi",A,4 out of 4,http://eci.nic.in/eci_main1/current/Press%20Note-51201.pdf
+164,Kerala,22-04-2015,21-04-2021,2191,INC,Indian National Congress,UPA,"Ravi, Shri Vayalar",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN-25_20032015.pdf
+165,Kerala,22-04-2015,21-04-2021,2191,IUML,Indian Union Muslim League,UPA,"Abdul Wahab, Shri",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN-25_20032015.pdf
+166,Kerala,22-04-2015,21-04-2021,2191,CPI(M),Communist Party Of India (Marxist),0,"Ragesh, Shri K.K.",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN-25_20032015.pdf
+167,Puducherry,07-10-2015,06-10-2021,2191,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Gokulakrishnan, Shri N.",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN52_01092015.pdf
+168,Assam,03-04-2016,02-04-2022,2190,INC,Indian National Congress,UPA,"Bora, Shri Ripun",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+169,Assam,03-04-2016,02-04-2022,2190,INC,Indian National Congress,UPA,"Narah, Smt. Ranee",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+170,Himachal Pradesh,03-04-2016,02-04-2022,2190,INC,Indian National Congress,UPA,"Anand Sharma, Shri",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+171,Kerala,03-04-2016,02-04-2022,2190,JD(U),Janata Dal (United),NDA,"Veerendra Kumar, Shri M.P.",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+172,Kerala,03-04-2016,02-04-2022,2190,INC,Indian National Congress,UPA,"Antony, Shri A.K.",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+173,Kerala,03-04-2016,02-04-2022,2190,CPI(M),Communist Party Of India (Marxist),0,"Somaprasad, Shri K.",A,3 out of 3,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+174,Nagaland,03-04-2016,02-04-2022,2190,NPF,Naga Peoples Front,NDA,"Kenye, Shri K.G.",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+175,Tripura,03-04-2016,02-04-2022,2190,CPI(M),Communist Party Of India (Marxist),0,"Baidya, Smt. Jharna Das",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+176,Punjab,10-04-2016,09-04-2022,2190,BJP,Bharatiya Janta Party,NDA,"Malik, Shri Shwait",,"one group with 2 seats, one with 3 seats",http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+177,Punjab,10-04-2016,09-04-2022,2190,SAD,Shiromani Akali Dal,NDA,"Dhindsa, Sardar Sukhdev Singh",,"one group with 2 seats, one with 3 seats",http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+178,Punjab,10-04-2016,09-04-2022,2190,SAD,Shiromani Akali Dal,NDA,"Gujral, Shri Naresh",B,"one group with 2 seats, one with 3 seats",http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+179,Punjab,10-04-2016,09-04-2022,2190,INC,Indian National Congress,UPA,"Bajwa, Shri Partap Singh",,"one group with 2 seats, one with 3 seats",http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+180,Punjab,10-04-2016,09-04-2022,2190,INC,Indian National Congress,UPA,"Dullo, Shri Shamsher Singh",,"one group with 2 seats, one with 3 seats",http://eci.nic.in/eci_main1/current/PN15_24022016.pdf
+181,Nominated,04-10-2016,24-04-2022,2028,BJP,Bharatiya Janta Party,NDA,"Ganguly, Smt. Roopa",A,,http://www.firstpost.com/politics/bjps-roopa-ganguly-replaces-navjot-singh-sidhu-as-rajya-sabha-member-3034306.html
+182,Nominated,25-04-2016,24-04-2022,2190,BJP,Bharatiya Janta Party,NDA,"Suresh Gopi, Shri",A,,
+183,Nominated,25-04-2016,24-04-2022,2190,BJP,Bharatiya Janta Party,NDA,"Swamy, Dr. Subramanian",A,,
+184,Nominated,25-04-2016,24-04-2022,2190,NOM.,Nominated,0,"Dasgupta, Shri Swapan",A,,
+185,Nominated,25-04-2016,24-04-2022,2190,NOM.,Nominated,0,"Jadhav, Dr. Narendra",A,,
+186,Nominated,25-04-2016,24-04-2022,2190,NOM.,Nominated,0,"Kom, Smt. M.C. Mary",A,,
+187,Nominated,13-06-2016,03-05-2022,2150,BJP,Bharatiya Janta Party,NDA,"Chhatrapati, Shri Sambhaji",A,,http://www.tribuneindia.com/news/nation/shivaji-s-descendant-sambhaji-raje-nominated-to-rs/250115.html
+188,Andhra Pradesh,22-06-2016,21-06-2022,2190,BJP,Bharatiya Janta Party,NDA,"Prabhu, Shri Suresh",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+189,Andhra Pradesh,22-06-2016,21-06-2022,2190,TDP,Telugu Desam,NDA,"Chowdary, Shri Y. S.",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+190,Andhra Pradesh,22-06-2016,21-06-2022,2190,TDP,Telugu Desam,NDA,"Venkatesh, Shri T.G.",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+191,Andhra Pradesh,22-06-2016,21-06-2022,2190,YSRCP,Yuvajana Sramika Rythu Congress Party,0,"Reddy, Shri V. Vijayasai",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+192,Telangana,22-06-2016,21-06-2022,2190,TRS,Telangana Rashtra Samithi,0,"Rao, Shri V. Lakshmikantha",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+193,Telangana,22-06-2016,21-06-2022,2190,TRS,Telangana Rashtra Samithi,0,"Srinivas, Shri Dharmapuri",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+194,Chhattisgarh,30-06-2016,29-06-2022,2190,BJP,Bharatiya Janta Party,NDA,"Netam, Shri Ram Vichar",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+195,Chhattisgarh,30-06-2016,29-06-2022,2190,INC,Indian National Congress,UPA,"Verma, Smt. Chhaya",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+196,Madhya Pradesh,30-06-2016,29-06-2022,2190,BJP,Bharatiya Janta Party,NDA,"Akbar, Shri M. J.",A,"3 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+197,Madhya Pradesh,30-06-2016,29-06-2022,2190,INC,Indian National Congress,UPA,"Tankha, Shri Vivek K.",A,"3 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+198,Madhya Pradesh,01-08-2017,29-06-2022,,BJP,Bharatiya Janta Party,NDA,"Uikey, Smt. Sampatiya",A,,figured out date from http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+199,Tamil Nadu,30-06-2016,29-06-2022,2190,DMK,Dravida Munetra Kazhagam,UPA,"Bharathi, Shri R.S.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+200,Tamil Nadu,30-06-2016,29-06-2022,2190,DMK,Dravida Munetra Kazhagam,UPA,"Elangovan, Shri T.K.S.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+201,Tamil Nadu,30-06-2016,29-06-2022,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Balasubramoniyan, Shri S.R.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+202,Tamil Nadu,30-06-2016,29-06-2022,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Navaneethakrishnan, Shri A.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+203,Tamil Nadu,30-06-2016,29-06-2022,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Vaithilingam, Shri R.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+204,Tamil Nadu,30-06-2016,29-06-2022,2190,AIADMK,All India Anna Dravida Munnetra Kazhagam,0,"Vijayakumar, Shri A.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+205,Karnataka,01-07-2016,30-06-2022,2190,BJP,Bharatiya Janta Party,NDA,"Nirmala Sitharaman, Smt.",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+206,Karnataka,01-07-2016,30-06-2022,2190,INC,Indian National Congress,UPA,"Fernandes, Shri Oscar",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+207,Karnataka,01-07-2016,30-06-2022,2190,INC,Indian National Congress,UPA,"Ramamurthy, Shri K.C.",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+208,Karnataka,01-07-2016,30-06-2022,2190,INC,Indian National Congress,UPA,"Ramesh, Shri Jairam",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+209,Odisha,19-05-2017,01-07-2022,1869,BJD,Biju Janata Dal,0,"Deb, Shri Pratap Keshari",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN36_03052017.pdf
+210,Odisha,02-07-2016,01-07-2022,2190,BJD,Biju Janata Dal,0,"Acharya, Shri Prasanna",A,"3 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+211,Odisha,02-07-2016,01-07-2022,2190,BJD,Biju Janata Dal,0,"Nekkanti, Shri Bhaskar Rao",A,"3 elected, 2 retiring",http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+212,Maharashtra,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Goyal, Shri Piyush",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+213,Maharashtra,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Mahatme, Dr. Vikas",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+214,Maharashtra,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Sahasrabuddhe, Dr. Vinay P.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+215,Maharashtra,05-07-2016,04-07-2022,2190,SS,Shiv Sena,NDA,"Raut, Shri Sanjay",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+216,Maharashtra,05-07-2016,04-07-2022,2190,INC,Indian National Congress,UPA,"Chidambaram, Shri P.",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+217,Maharashtra,05-07-2016,04-07-2022,2190,NCP,Nationalist Congress Party,0,"Patel, Shri Praful",A,6 out of 6,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+218,Punjab,05-07-2016,04-07-2022,2190,SAD,Shiromani Akali Dal,NDA,"Bhunder, Sardar Balwinder Singh",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+219,Punjab,05-07-2016,04-07-2022,2190,INC,Indian National Congress,UPA,"Soni, Smt. Ambika",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+220,Rajasthan,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Dungarpur, Shri Harshvardhan Singh",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+221,Rajasthan,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Mathur, Shri Om Prakash",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+222,Rajasthan,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Verma, Shri Ramkumar",A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+223,Rajasthan,VACANT,04-07-2022,,VACANT,VACANT,0,VACANT,A,4 out of 4,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+224,Uttar Pradesh,05-07-2016,04-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Shukla, Shri Shiv Pratap",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+225,Uttar Pradesh,05-07-2016,04-07-2022,2190,INC,Indian National Congress,UPA,"Sibal, Shri Kapil",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+226,Uttar Pradesh,05-07-2016,04-07-2022,2190,BSP,Bahujan Samaj Party,0,"Ashok Siddharth, Shri",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+227,Uttar Pradesh,05-07-2016,04-07-2022,2190,BSP,Bahujan Samaj Party,0,"Misra, Shri Satish Chandra",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+228,Uttar Pradesh,05-07-2016,04-07-2022,2190,IND.,Independent,0,"Singh, Shri Amar",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+229,Uttar Pradesh,05-07-2016,04-07-2022,2190,SP,Samajwadi Party,0,"Nagar, Shri Surendra Singh",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+230,Uttar Pradesh,05-07-2016,04-07-2022,2190,SP,Samajwadi Party,0,"Nishad, Shri Vishambhar Prasad",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+231,Uttar Pradesh,05-07-2016,04-07-2022,2190,SP,Samajwadi Party,0,"Seth, Shri Sanjay",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+232,Uttar Pradesh,05-07-2016,04-07-2022,2190,SP,Samajwadi Party,0,"Singh, Shri Rewati Raman",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+233,Uttar Pradesh,05-07-2016,04-07-2022,2190,SP,Samajwadi Party,0,"Verma, Shri Beni Prasad",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+234,Uttar Pradesh,05-07-2016,04-07-2022,2190,SP,Samajwadi Party,0,"Yadav, Ch. Sukhram Singh",A,11 out of 11,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+235,Uttarakhand,05-07-2016,04-07-2022,2190,INC,Indian National Congress,UPA,"Tamta, Shri Pradeep",A,1 out of 1,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+236,Bihar,08-07-2016,07-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Singh, Shri Gopal Narayan",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+237,Bihar,08-07-2016,07-07-2022,2190,JD(U),Janata Dal (United),NDA,"Singh, Shri Ram Chandra Prasad",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+238,Bihar,08-07-2016,07-07-2022,2190,JD(U),Janata Dal (United),NDA,"Yadav, Shri Sharad",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+239,Bihar,08-07-2016,07-07-2022,2190,RJD,Rashtriya Janata Dal,0,"Bharti, Smt. Misha",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+240,Bihar,08-07-2016,07-07-2022,2190,RJD,Rashtriya Janata Dal,0,"Jethmalani, Shri Ram",A,5 out of 5,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+241,Jharkhand,08-07-2016,07-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Naqvi, Shri Mukhtar Abbas",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+242,Jharkhand,08-07-2016,07-07-2022,2190,BJP,Bharatiya Janta Party,NDA,"Poddar, Shri Mahesh",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+243,Haryana,02-08-2016,01-08-2022,2190,BJP,Bharatiya Janta Party,NDA,"Singh, Chaudhary Birender",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+244,Haryana,02-08-2016,01-08-2022,2190,IND.,Independent,0,"Subhash Chandra, Dr.",A,2 out of 2,http://eci.nic.in/eci_main1/current/PN43_12052016.pdf
+245,Goa,29-07-2017,28-07-2023,2190,BJP,Bharatiya Janta Party,NDA,"Tendulkar, Vinay",A,1 out of 1,http://www.livemint.com/Politics/4PBfFhUjtNOb4e3w65UoVI/BJP-snatches-Rajya-Sabha-seat-from-Congress-in-Goa.html

@@ -1,0 +1,215 @@
+party,full_form,alliance,seats,state
+INC,Indian National Congress,UPA,1,Arunachal Pradesh
+BJP,Bharatiya Janta Party,NDA,47,Arunachal Pradesh
+PPA,Peoples Party Of Arunachal,0,5,Arunachal Pradesh
+IND,Independent,NDA,2,Arunachal Pradesh
+Vacant,Vacant,0,1,Arunachal Pradesh
+BJP,Bharatiya Janta Party,NDA,61,Assam
+INC,Indian National Congress,UPA,26,Assam
+AGP,Asom Gana Parisad,NDA,14,Assam
+AIUDF,All India United Democratic Front,0,13,Assam
+BOPF,Bodoland Peoples Front,NDA,12,Assam
+IND,Independent,0,1,Assam
+RJD,Rashtriya Janata Dal,0,80,Bihar
+JD(U),Janata Dal (United),NDA,71,Bihar
+BJP,Bharatiya Janta Party,NDA,53,Bihar
+INC,Indian National Congress,UPA,27,Bihar
+IND,Independent,0,4,Bihar
+Communist Party Of India (Marxist-Leninist) (Liberation),Communist Party Of India (Marxist-Leninist) (Liberation),0,3,Bihar
+Lok Jan Shakti Party,Lok Jan Shakti Party,NDA,2,Bihar
+Rashtriya Lok Samta Party,Rashtriya Lok Samta Party,NDA,2,Bihar
+Hindustani Awam Morcha (Secular),Hindustani Awam Morcha (Secular),NDA,1,Bihar
+BJP,Bharatiya Janta Party,NDA,49,Chhattisgarh
+INC,Indian National Congress,UPA,39,Chhattisgarh
+BSP,Bahujan Samaj Party,0,1,Chhattisgarh
+IND,Independent,0,1,Chhattisgarh
+Nominated,Nominated,0,1,Chhattisgarh
+AAAP,Aam Aadmi Party,0,65,Delhi
+BJP,Bharatiya Janta Party,NDA,4,Delhi
+Vacant,Vacant,Vacant,1,Delhi
+INC,Indian National Congress,UPA,16,Goa
+BJP,Bharatiya Janta Party,NDA,13,Goa
+MAG,Maharashtrawadi Gomantak,NDA,3,Goa
+GFP,Goa Forward Party,NDA,3,Goa
+IND,Independent,0,3,Goa
+Nationalist Congress Party,Nationalist Congress Party,NDA,1,Goa
+Vacant,Vacant,0,1,Goa
+BJP,Bharatiya Janta Party,NDA,121,Gujarat
+INC,Indian National Congress,UPA,51,Gujarat
+NCP,Nationalist Congress Party,0,2,Gujarat
+Vacant,Vacant,0,6,Gujarat
+Janata Dal (United),Janata Dal (United),0,1,Gujarat
+Independent,Independent,0,1,Gujarat
+BJP,Bharatiya Janta Party,NDA,47,Haryana
+INLD,Indian National Lok Dal,0,19,Haryana
+INC,Indian National Congress,UPA,15,Haryana
+HJCBL,Haryana Janhit Congress (BL),0,2,Haryana
+IND,Independent,NDA,5,Haryana
+Bahujan Samaj Party,Bahujan Samaj Party,0,1,Haryana
+Shiromani Akali Dal,Shiromani Akali Dal,0,1,Haryana
+INC,Indian National Congress,UPA,35,Himachal Pradesh
+BJP,Bharatiya Janta Party,NDA,28,Himachal Pradesh
+IND,Independent,0,5,Himachal Pradesh
+Vacant,Vacant,0,1,Himachal Pradesh
+JKPDP,Jammu & Kashmir Peoples Democratic Party,NDA,29,Jammu & Kashmir
+BJP,Bharatiya Janta Party,NDA,26,Jammu & Kashmir
+JKN,Jammu & Kashmir National Conference,0,15,Jammu & Kashmir
+INC,Indian National Congress,UPA,12,Jammu & Kashmir
+IND,Independent,0,3,Jammu & Kashmir
+Jammu & Kashmir People Conference,Jammu & Kashmir People's Conference,NDA,2,Jammu & Kashmir
+Jammu And Kashmir People Democratic Front (Secular),Jammu And Kashmir People Democratic Front (Secular),0,1,Jammu & Kashmir
+Communist Party Of India (MARXIST),Communist Party Of India (Marxist),0,1,Jammu & Kashmir
+BJP,Bharatiya Janta Party,NDA,43,Jharkhand
+JMM,Jharkhand Mukti Morcha,0,19,Jharkhand
+JVM,Jharkhand Vikas Morcha (Prajatantrik),0,2,Jharkhand
+INC,Indian National Congress,UPA,7,Jharkhand
+AJSUP,Ajsu Party,NDA,4,Jharkhand
+Bahujan Samaj Party,Bahujan Samaj Party,0,1,Jharkhand
+Communist Party Of India (MARXIST-LENINIST) (LIBERATION),Communist Party Of India (Marxist-Leninist) (Liberation),0,1,Jharkhand
+Jharkhand Party,Jharkhand Party,0,1,Jharkhand
+Marxist Co-Ordination,Marxist Co-Ordination,0,1,Jharkhand
+Jai Bharat Samanta Party,Jai Bharat Samanta Party,0,1,Jharkhand
+Navjawan Sangharsh Morcha,Navjawan Sangharsh Morcha,0,1,Jharkhand
+Nominated,Nominated,0,1,Jharkhand
+INC,Indian National Congress,UPA,123,Karnataka
+JD(S),Janata Dal (Secular),0,40,Karnataka
+BJP,Bharatiya Janta Party,NDA,44,Karnataka
+KJP,Karnataka Jantha Paksha,0,2,Karnataka
+IND,Independent,0,9,Karnataka
+Badavara Shramikara Raitara Congress Party,Badavara Shramikara Raitara Congress Party,0,3,Karnataka
+Sarvodaya Karnataka Paksha,Sarvodaya Karnataka Paksha,0,1,Karnataka
+Karnataka Makkala Paksha,Karnataka Makkala Paksha,0,1,Karnataka
+Nominated,Nominated,0,1,Karnataka
+speaker,speaker,0,1,Karnataka
+Communist Party Of India (Marxist),Communist Party Of India (Marxist),0,58,Kerala
+Indian National Congress,Indian National Congress,UPA,22,Kerala
+Communist Party Of India,Communist Party Of India,0,19,Kerala
+Indian Union Muslim League,Indian Union Muslim League,UPA,17,Kerala
+Independent,Independent,0,6,Kerala
+Kerala Congress(M),Kerala Congress (M),UPA,6,Kerala
+Janata Dal (Secular),Janata Dal (Secular),0,3,Kerala
+Nationalist Congress Party,Nationalist Congress Party,0,2,Kerala
+Bharatiya Janta Party,Bharatiya Janta Party,NDA,1,Kerala
+National Secular Conference,National Secular Conference,0,1,Kerala
+Communist Marxist Party Kerala State Committee,Communist Marxist Party Kerala State Committee,0,1,Kerala
+Kerala Congress (B),Kerala Congress (B),0,1,Kerala
+Kerala Congress (Jacob),Kerala Congress (Jacob),UPA,1,Kerala
+Congress (Secular),Congress (Secular),0,1,Kerala
+Vacant,Vacant,0,1,Kerala
+BJP,Bharatiya Janta Party,NDA,165,Madhya Pradesh
+INC,Indian National Congress,UPA,56,Madhya Pradesh
+BSP,Bahujan Samaj Party,0,4,Madhya Pradesh
+IND,Independent,0,3,Madhya Pradesh
+Nominated,Nominated,0,1,Madhya Pradesh
+Vacant,Vacant,0,2,Madhya Pradesh
+BJP,Bharatiya Janta Party,NDA,122,Maharashtra
+SHS,Shiv Sena,NDA,62,Maharashtra
+INC,Indian National Congress,UPA,42,Maharashtra
+NCP,Nationalist Congress Party,0,41,Maharashtra
+IND,Independent,0,7,Maharashtra
+Peasants And Workers Party Of India,Peasants And Workers Party Of India,0,3,Maharashtra
+Bahujan Vikas Aaghadi,Bahujan Vikas Aaghadi,0,3,Maharashtra
+All India Majlis-E-Ittehadul Muslimoon,All India Majlis-E-Ittehadul Muslimoon,0,2,Maharashtra
+Bharipa Bahujan Mahasangh,Bharipa Bahujan Mahasangh,0,1,Maharashtra
+Rashtriya Samaj Paksha,Rashtriya Samaj Paksha,NDA,1,Maharashtra
+Communist Party Of India (MARXIST),Communist Party Of India (Marxist),0,1,Maharashtra
+Samajwadi Party,Samajwadi Party,0,1,Maharashtra
+Vacant,Vacant,0,2,Maharashtra
+INC,Indian National Congress,UPA,19,Manipur
+BJP,Bharatiya Janta Party,NDA,31,Manipur
+NPF,Naga Peoples Front,NDA,4,Manipur
+NPEP,National People's Party,NDA,4,Manipur
+IND,Independent,NDA,1,Manipur
+Lok Jan Shakti Party,Lok Jan Shakti Party,NDA,1,Manipur
+INC,Indian National Congress,UPA,30,Meghalaya
+UDP,United Democratic Party,NDA,8,Meghalaya
+HSPDP,Hill State People's Democratic Party,NDA,4,Meghalaya
+NCP,Nationalist Congress Party,0,2,Meghalaya
+IND,Independent,0,13,Meghalaya
+National People's Party,National People's Party,NDA,2,Meghalaya
+North East Social Democratic Party,North East Social Democratic Party,0,1,Meghalaya
+INC,Indian National Congress,UPA,34,Mizoram
+MNF,Mizo National Front,NDA,5,Mizoram
+MZPC,Mizoram People's Conference,0,1,Mizoram
+NPF,Naga Peoples Front,NDA,45,Nagaland
+NCP,Nationalist Congress Party,NDA,1,Nagaland
+BJP,Bharatiya Janta Party,NDA,1,Nagaland
+IND,Independent,NDA,8,Nagaland
+Janata Dal (United),Janata Dal (United),NDA,1,Nagaland
+Vacant,Vacant,0,1,Nagaland
+BJD,Biju Janata Dal,0,117,Odisha
+INC,Indian National Congress,UPA,16,Odisha
+BJP,Bharatiya Janta Party,NDA,10,Odisha
+SKD,Samata Kranti Dal,0,1,Odisha
+IND,Independent,0,2,Odisha
+Communist Party Of India (MARXIST),Communist Party Of India (Marxist),0,1,Odisha
+INC,Indian National Congress,UPA,15,Puducherry
+AINRC,All India N.R. Congress,NDA,8,Puducherry
+AIADMK,All India Anna Dravida Munnetra Kazhagam,0,4,Puducherry
+DMK,Dravida Munetra Kazhagam,UPA,2,Puducherry
+IND,Independent,0,1,Puducherry
+Nominated,Bharatiya Janta Party,NDA,3,Puducherry
+INC,Indian National Congress,UPA,77,Punjab
+AAAP,Aam Aadmi Party,0,20,Punjab
+SAD,Shiromani Akali Dal,NDA,15,Punjab
+BJP,Bharatiya Janta Party,NDA,3,Punjab
+LIP,Lok Insaaf Party,0,2,Punjab
+BJP,Bharatiya Janta Party,NDA,161,Rajasthan
+INC,Indian National Congress,UPA,24,Rajasthan
+NPEP,National People's Party,NDA,4,Rajasthan
+BSP,Bahujan Samaj Party,0,2,Rajasthan
+IND,Independent,0,7,Rajasthan
+National Unionist Zamindara Party,National Unionist Zamindara Party,0,2,Rajasthan
+SDF,Sikkim Democratic Front,NDA,29,Sikkim
+SKM,Sikkim Krantikari Morcha,0,2,Sikkim
+Independent,Independent,0,1,Sikkim
+AIADMK (Pallaniswami),All India Anna Dravida Munnetra Kazhagam (Pallaniswami),0,122,Tamil Nadu
+AIADMK (Panneerselvam),All India Anna Dravida Munnetra Kazhagam (Panneerselvam),0,12,Tamil Nadu
+DMK,Dravida Munetra Kazhagam,UPA,89,Tamil Nadu
+INC,Indian National Congress,UPA,8,Tamil Nadu
+IML,Indian Union Muslim League,UPA,1,Tamil Nadu
+Vacant,Vacant,0,1,Tamil Nadu
+Nominated (Anglo Indian),Nominated (Anglo Indian),0,1,Tamil Nadu
+TRS,Telangana Rashtra Samithi,0,90,Telangana
+INC,Indian National Congress,UPA,13,Telangana
+TDP,Telugu Desam,NDA,3,Telangana
+AIMIM,All India Majlis-E-Ittehadul Muslimoon,0,7,Telangana
+BJP,Bharatiya Janta Party,NDA,5,Telangana
+Communist Party Of India (MARXIST),Communist Party Of India (Marxist),0,1,Telangana
+"Nominated, Anglo Indian","Nominated, Anglo Indian",0,1,Telangana
+CPM,Communist Party Of India (Marxist),0,50,Tripura
+INC,Indian National Congress,UPA,7,Tripura
+CPI,Communist Party Of India,0,1,Tripura
+AITC,All India Trinamool Congress,0,2,Tripura
+BJP,Bharatiya Janta Party,NDA,311,Uttar Pradesh
+SP,Samajwadi Party,0,47,Uttar Pradesh
+BSP,Bahujan Samaj Party,0,19,Uttar Pradesh
+ADS,Apna Dal (Soneylal),0,9,Uttar Pradesh
+INC,Indian National Congress,UPA,7,Uttar Pradesh
+IND,Independent,0,3,Uttar Pradesh
+Suheldev Bhartiya Samaj Party,Suheldev Bhartiya Samaj Party,NDA,4,Uttar Pradesh
+Rashtriya Lok Dal,Rashtriya Lok Dal,UPA,1,Uttar Pradesh
+Nirbal Indian Shoshit Hamara Aam Dal,Nirbal Indian Shoshit Hamara Aam Dal,0,1,Uttar Pradesh
+"Nominated, Anglo Indian","Nominated, Anglo Indian",0,1,Uttar Pradesh
+BJP,Bharatiya Janta Party,NDA,57,Uttarakhand
+INC,Indian National Congress,UPA,11,Uttarakhand
+IND,Independent,0,2,Uttarakhand
+"Nominated, Anglo Indian","Nominated, Anglo Indian",0,1,Uttarakhand
+AITC,All India Trinamool Congress,0,211,West Bengal
+INC,Indian National Congress,UPA,43,West Bengal
+CPI(M),Communist Party Of India (Marxist),0,26,West Bengal
+BJP,Bharatiya Janta Party,NDA,3,West Bengal
+RSP,Revolutionary Socialist Party,UPA,3,West Bengal
+IND,Independent,0,1,West Bengal
+Gorkha Janmukti Morcha,Gorkha Janmukti Morcha,NDA,3,West Bengal
+All India Forward Bloc,All India Forward Bloc,0,2,West Bengal
+Communist Party Of India,Communist Party Of India,0,1,West Bengal
+"Nominated, Anglo Indian","Nominated, Anglo Indian",0,1,West Bengal
+Vacant,Vacant,0,1,West Bengal
+TDP,Telugu Desam,NDA,102,Andhra Pradesh
+YSRCP,Yuvajana Sramika Rythu Congress Party,0,66,Andhra Pradesh
+BJP,Bharatiya Janta Party,NDA,4,Andhra Pradesh
+NPT,Navodyam Party,0,1,Andhra Pradesh
+IND,Independent,0,1,Andhra Pradesh
+Vacant,Vacant,0,1,Andhra Pradesh
+Nominated,Nominated,0,1,Andhra Pradesh

@@ -1,0 +1,1420 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>What do the Rajya Sabha election results mean for national politics?/REWRITE</title>
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
+<script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-78400808-1', 'auto');
+        ga('send', 'pageview');
+</script>
+
+<!-- for Facebook -->          
+<meta property="og:title" content="How will the Rajya Sabha elections affect national politics?" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://i.imgur.com/U2eRCH1.png" />
+<meta property="og:description" content="What do the recent Rajya Sabha polls mean for the NDA and UPA and how will future polls impact their numbers in parliament? Click here to find out." />
+
+<!-- for Twitter -->          
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="How will the Rajya Sabha elections affect national politics?" />
+<meta name="twitter:description" content="What do the recent Rajya Sabha polls mean for the NDA and UPA and how will future polls impact their numbers in parliament? Click here to find out." />
+<meta name="twitter:image" content="http://i.imgur.com/AoH8cfS.png" />
+
+
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/black_yellow.css" id="theme">
+
+
+<!-- seems reveal.js relies on head.js for dependency loading -->
+		<script src="js/head.min.js"></script>
+		<script src="js/reveal_modified.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.min.js"></script>
+		<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script> --> 
+
+
+	</head>
+
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+<section>
+
+<section data-state="section01" id="section01">
+<h2>How will the Rajya Sabha polls affect national politics?</h2>
+		<div id='section01_container'></div>
+		<p>Three Rajya Sabha seats for Gujarat are up for election this Tuesday. The three seats were part of 10 in the Upper House (including six from West Bengal) that were decided recently. But how will these changes affect the state of play on the national stage? In particular, how will they impact the numbers in parliament of the two major coalitions -- the ruling National Democratic Alliance (NDA) led by the Bharatiya Janata Party and the United Progressive Alliance (UPA) led by Congress(I)? Flick up to find out.</p>
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section01', function() {
+
+var vh = window.innerHeight/100 //creating a duplicate viewport height unit
+
+// set the dimensions and margins of the graph
+var margin = {top: 0*vh, right: 1*vh, bottom: 0*vh, left: 1*vh},
+    width = (49*vh) - margin.left - margin.right,
+    height = (35*vh) - margin.top - margin.bottom
+    ;
+
+// append the svg object to the body of the page
+// append a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3
+          .select('#section01_container')
+              .html('')
+				.append("svg")
+			    .attr("width", width + margin.left + margin.right)
+			    .attr("height", height + margin.top + margin.bottom)
+			  	.append("g")
+			    .attr("transform", 
+			          "translate(" + margin.left + "," + margin.top + ")")
+			    ;
+
+
+		d3.xml("svgs/pg1_min.svg", function(error, xml) {
+        if (error) {console.log(error); return;}
+
+var svg_node = xml
+                .getElementsByTagName("svg")[0]
+                ;
+
+				svg
+				  .node()
+				  .appendChild(svg_node)
+				  ;
+
+      d3
+       .select("#path5161")
+       .attr("fill", "#4f4f4f")
+       .attr("fill-opacity","1")
+          ;
+
+});
+	
+	} );
+
+	</script>					
+	
+</section>
+
+
+<section data-state="section04" id="section04">
+				<h2>WHAT THE RAJYA SABHA WILL LOOK LIKE</h2>
+				<p>If the polls in Gujarat go as expected, with the BJP winning two seats and the Congress(I) getting the remaining one, the table below shows us what the numbers will be on August 19 when the new MPs from Gujarat and West Bengal take up their seats.</p>
+		<div id='section04_container'>
+		<table >
+	<tbody>
+		<tr>
+			<th>NDA members</th>
+			<th>No. of MPs</th>
+			<th>Unallied parties</th>
+			<th>No. of MPs</th>
+		</tr>
+		<tr>
+			<td>Bharatiya Janata Party</td>
+			<td>56</td>
+			<td>Samajwadi Party</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>Janata Dal (United)</td>
+			<td>10</td>
+			<td>AIADMK</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>Telugu Desam Party</td>
+			<td>6</td>
+			<td>All India Trinamool Congress</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>Shiromani Akali Dal</td>
+			<td>3</td>
+			<td>Biju Janta Dal</td>
+			<td>8</td>
+
+		</tr>
+		<tr>
+			<td>Shiv Sena</td>
+			<td>3</td>
+			<td>Communist Party of India (M)</td>
+			<td>7</td>
+		</tr>
+		<tr>
+
+			<td>J&K People's Democratic Party</td>
+			<td>2</td>
+			<td>Independent</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>Sikkim Democratic Front</td>
+			<td>1</td>
+			<td>Bahujan Samaj Party</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>Naga People's Front</td>
+			<td>1</td>
+			<td>Nationalist Congress Party</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>Bodoland People's Front</td>
+			<td>1</td>
+			<td>Rashtriya Janata Dal</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		<td>Telangana Rashtra Samithi</td>
+			<td>3</td>
+			</tr>
+
+		<tr>
+			<th>UPA members</th>
+			<th>No. of MPs</th>
+			<td>Communist Party of India</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Congress (I)</td>
+			<td>57</td>
+			<td>Indian National Lok Dal</td>
+			<td>1</td>
+			
+		</tr>
+		<tr>
+			<td>DMK</td>
+			<td>4</td>
+			<td>Janata Dal (Secular)</td>
+			<td>1</td>
+		</tr>
+    	<tr>
+			<td>Indian Union Muslim League</td>
+			<td>1</td>
+			<td>Jharkhand Mukti Morcha</td>
+			<td>1</td>
+
+		</tr>
+		<tr>
+			<td>Kerala Congress (M)</td>
+			<td>1</td>
+			<td>Republican Party of India (A)</td>
+			<td>1</td>
+		</tr>
+			<tr>
+			<td></td>
+			<td></td>
+			<td>YSR Congress Party</td>
+			<td>1</td>
+		</tr>
+			<tr>
+			<td></td>
+			<td></td>
+			<td>Nominated</td>
+			<td>8</td>
+		</tr>
+			<tr>
+			<td></td>
+			<td></td>
+			<td>Vacancies</td>
+			<td>4</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+	
+</section>
+
+<section data-state="section05" id="section05">
+				<h2>NO MAJORITY IN SIGHT FOR NDA</h2>
+				<p>And if we tot up the numbers below for the two coalitions in the Rajya Sabha after August 19, (and also take into account the upcoming resignations of BJP MPs Manohar Parrikar and Venkaiah Naidu given they are now in the posts of Chief Minister of Goa and Vice-president respectively), we see the NDA is still some way away from any kind of majority in the Upper House.</p>
+		<div id='section05_container'></div>
+		<p>A simple majority is important because it makes it easier to pass bills, while a two-thirds majority is needed to amend the constitution or pass laws on matters that are otherwise on the state list. So if the NDA wants anything like this done, it will have to rely on the support of others.</p>
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section05', function() {
+
+
+d3.csv("data/rs_strength_bar_chart.csv", function(data) {
+
+
+var vh = window.innerHeight/100 //creating a duplicate viewport height unit
+
+
+var margin = {top: 2*vh, right: 3*vh, bottom: 4*vh, left: 8*vh},
+    width = (50*vh) - margin.left - margin.right,
+    height = (25*vh) - margin.top - margin.bottom;
+
+// set the ranges
+var y = d3.scaleBand()
+          .range([0, height])
+          .padding(0.1);
+
+var x = d3.scaleLinear()
+          .range([0, width]);
+          
+// append the svg object to the body of the page
+// append a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3
+     .select('#section05_container')
+              .html('')
+	.append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", 
+          "translate(" + margin.left + "," + margin.top + ")");
+
+  // format the data
+  data.forEach(function(d) {
+    d.seats = +d.seats;
+  });
+
+  // Scale the range of the data in the domains
+  x.domain([0, 230])
+  y.domain(data.map(function(d) { return d.party; }));
+  //y.domain([0, d3.max(data, function(d) { return d.seats; })]);
+
+  // append the rectangles for the bar chart
+  svg.selectAll(".bar")
+      .data(data)
+    .enter()
+    .append("g")
+.attr("class", "bars")
+    .append("rect")
+      .attr("class", "bar")
+      //.attr("x", function(d) { return x(d.seats); })
+      .attr("width", function(d) {return x(d.seats); } )
+      .attr("y", function(d) { return y(d.party); })
+      .attr("height", y.bandwidth())
+      ;
+
+var bars = svg
+				.selectAll(".bars");
+bars
+	.append("text")
+	.attr('class','svgtext')
+  //.attr("class", "label")
+  //.attr('transform', 'rotate(-90)')
+  .attr("x", function(d) { return x(d.seats) + (1*vh); })
+  .attr("y", function(d) { return y(d.party) + (3*vh); })
+  .text(function(d) { return d.seats; });
+
+  // add the x Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .attr('class','axis')
+      .call(d3.axisBottom(x));
+
+  // add the y Axis
+  svg.append("g")
+  	//	.attr("transform", "translate(" + width/5 + ",0)")
+  		.attr('class','axis')
+      .call(d3.axisLeft(y));
+
+//code below from https://groups.google.com/forum/#!topic/d3-js/LiI1JAY79E8
+
+svg.append('line')
+	.style("stroke", '#4f4f4f')
+    .style("stroke-dasharray", "5, 5")
+    .attr('x1', x(123)) // x() is your scaling function, 10 is the value where you want a line to be placed
+    .attr('y1', height) // height of your chart
+    .attr('x2', x(123)) // same as x1 for a horizontal line
+    .attr('y2', 0) // height of your chart
+    ;
+
+svg
+    .append("text")
+    .attr("x", x(126))
+    .attr("y", 0.05 * height)
+    .attr("text-anchor", "start")
+    .text('--NDA 40 seats away from')
+    .attr('class','svgtext')
+    ;
+
+svg
+    .append("text")
+    .attr("x", x(126))
+    .attr("y", 0.15 * height)
+    .attr("text-anchor", "start")
+    .text('simple majority of 123')
+    .attr('class','svgtext')
+    ;
+
+
+
+svg.append('line')
+    .style("stroke", '#4f4f4f')
+    .style("stroke-dasharray", "5,5")
+    .attr('x1', x(162))
+    .attr('y1', height)
+    .attr('x2', x(162))
+    .attr('y2', 0.4 * height)
+    ;
+
+svg
+    .append("text")
+    .attr("x", x(165))
+    .attr("y", 0.5 * height)
+    .attr("text-anchor", "start")
+    .text('--NDA 79 seats')
+    .attr('class','svgtext')
+    ;
+
+svg
+    .append("text")
+    .attr("x", x(165))
+    .attr("y", 0.6 * height)
+    .attr("text-anchor", "start")
+    .text('away from 2/3')
+    .attr('class','svgtext')
+    ;
+
+
+svg
+    .append("text")
+    .attr("x", x(165))
+    .attr("y", 0.7 * height)
+    .attr("text-anchor", "start")
+    .text('majority of 162')
+    .attr('class','svgtext')
+    ;
+
+
+
+});
+
+	
+	} );
+
+	</script>					
+	
+</section>
+
+<section data-state="section08" id="section08">
+				<h2>What should the NDA do to get a Rajya Sabha majority?</h2>
+				<p>To start changing its numbers in the Rajya Sabha, the NDA will have to win states which are in the hands of the opposition. States such as Karnataka and Himachal Pradesh, which together provide a total of 15 MPs to the Rajya Sabha, are currently with the UPA and will be going to the polls in 2018, along with the eight other states mentioned below.</p>
+		<div id='section08_container'></div>
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section08', function() {
+
+
+		d3.json("data/india_4_rs.geojson", function (json) {
+
+			var vh = window.innerHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+
+var margin = {top: 0*vh, right: 0*vh, bottom: 1*vh, left: 0*vh},
+    w = (50*vh) - margin.left - margin.right,
+    h = (50*vh) - margin.top - margin.bottom;
+
+
+var svg = d3
+     .select('#section08_container')
+     .html('')
+	.append("svg")
+    .attr("width", w + margin.left + margin.right)
+    .attr("height", h + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+var map = svg
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+            .attr("width", w)
+            .attr("height", h)
+            ;
+
+var proj = d3
+              .geoMercator()
+              .fitSize([w, h], json)
+              ;
+
+var pathx = d3
+              .geoPath()
+              .projection(proj)
+              ;
+
+//list of states going to polls in 2017 & 2018
+var state_list = ['Himachal Pradesh','Gujarat', 'Meghalaya', 'Nagaland', 'Tripura', 'Karnataka', 'Mizoram', 'Chhattisgarh', 'Madhya Pradesh', 'Rajasthan'];
+
+var label_dict = {'Himachal Pradesh':'HP','Gujarat':'GJ', 'Meghalaya':'ML', 'Nagaland':'NL', 'Tripura':'TR', 'Karnataka':'KA', 'Mizoram':'MZ', 'Chhattisgarh':'CG', 'Madhya Pradesh':'MP', 'Rajasthan':'RJ'};
+
+
+
+      map
+        .selectAll("path")
+        .data(json.features)
+        .enter()
+            .append("path")
+            .attr("d", pathx)
+            .style("stroke", function(d) {
+        	var state_name = d.properties.ST_NM 
+				    if( state_list.indexOf(state_name) === -1){
+				    	      return '#4f4f4f';
+				     } else {
+				    	return '#ffda29';	}
+					})   
+            .style("opacity","1")
+            .style("stroke-width", "1px")
+        	.attr("fill", function(d) {
+        	var state_name = d.properties.ST_NM 
+				    if( state_list.indexOf(state_name) === -1){
+				    	      return '#ffda29';
+				     } else {
+				    	return '#4f4f4f';	}
+					})      
+            		;
+
+//the code below is for generating backgrounds of the text labels, it's from http://stackoverflow.com/questions/42327183/d3-tick-with-background and http://stackoverflow.com/questions/15500894/background-color-of-text-in-svg
+
+     var filter = map
+                  .append("defs")
+                  .append("filter")
+                  .attr("x", "0")
+                  .attr("y", "0")
+                  .attr("width", "1")
+                  .attr("height", "0.8")
+                  .attr("id", "background");
+
+                filter
+                  .append("feFlood")
+                  .attr("flood-color", "#ffda29");
+                
+                filter
+                  .append("feComposite")
+                  .attr("in", "SourceGraphic");
+
+
+    map
+	    .selectAll("text.state_label")
+	    .data(json.features)
+	    .enter()
+	    .append("text")
+	    .attr('class','state_label')
+	    .text(function(d){
+        	var state_name = d.properties.ST_NM 
+	    if( state_list.indexOf(state_name) === -1){
+	    	      return '';
+	     } else {
+	    	return label_dict[state_name];	}
+	    })
+	    /*.attr("x", function(d){
+	        return pathx.centroid(d)[0];
+	    })
+	    .attr("y", function(d){
+	        return  pathx.centroid(d)[1];
+	    })*/
+	    .attr("transform", function (d) { return "translate(" + pathx.centroid(d) + ")"; })
+	    //.attr("dy", "1em")
+	    .attr("filter","url(#background)")
+	   // .style("opacity","1")
+	    ;
+
+
+
+map
+	.append("text")
+     .text('CG : Chhattisgarh')
+     .attr("x", (5*w)/9)
+	 .attr("y", (6.3*h)/9)
+     .attr('class','legend')
+	 ;
+
+map.append("text")
+     .text('GJ : Gujarat')
+     .attr("x", (5*w)/9)
+	 .attr("y", (6.6*h)/9)
+     .attr('class','legend')
+	 ;
+
+    map.append("text")
+     .text('HP : Himachal Pradesh')
+     .attr("x", (5*w)/9)
+	 .attr("y", (6.9*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('KA : Karnataka')
+          .attr("x", (5*w)/9)
+	 .attr("y", (7.2*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('MP : Madhya Pradesh')
+          .attr("x", (5*w)/9)
+	 .attr("y", (7.5*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('ML : Meghalaya')
+          .attr("x", (5*w)/9)
+	 .attr("y", (7.8*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('MZ : Mizoram')
+          .attr("x", (5*w)/9)
+	 .attr("y", (8.1*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('NL : Nagaland')
+          .attr("x", (5*w)/9)
+	 .attr("y", (8.4*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('RJ : Rajasthan')
+          .attr("x", (5*w)/9)
+	 .attr("y", (8.7*h)/9)
+     .attr('class','legend')
+	 ;
+
+     map.append("text")
+     .text('TR : Tripura')
+          .attr("x", (5*w)/9)
+	 .attr("y", (9*h)/9)
+     .attr('class','legend')
+	 ;
+
+
+});
+
+
+	} );
+
+	</script>					
+	
+</section>
+
+<section data-state="section09" id="section09">
+				<h2>WHEN ARE RAJYA SABHA SEATS UP FOR ELECTION?</h2>
+				<p>The table below tells us how many RS seats from a state are up for election each year. </p>
+		<div id='section09_container'>
+			<table id='translucent' class="table table-bordered table-hover table-condensed ">
+<tbody><tr   style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<th>State</th>
+<th align="right">2018</th>
+<th align="right">2019</th>
+<th align="right">2020</th>
+<th align="right">2021</th>
+<th align="right">2022</th>
+<th align="right">2023</th>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Andhra Pradesh</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Arunachal Pradesh</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Assam</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Bihar</td>
+<td align="right">6</td>
+<td align="right"></td>
+<td align="right">5</td>
+<td align="right"></td>
+<td align="right">5</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Chhattisgarh</td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Delhi</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Goa</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Gujarat</td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">3</td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Haryana</td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Himachal Pradesh</td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Jammu &amp; Kashmir</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Jharkhand</td>
+<td align="right">2</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Karnataka</td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Kerala</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">3</td>
+<td align="right">3</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Madhya Pradesh</td>
+<td align="right">5</td>
+<td align="right"></td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">3</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Maharashtra</td>
+<td align="right">6</td>
+<td align="right"></td>
+<td align="right">7</td>
+<td align="right"></td>
+<td align="right">6</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Manipur</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Meghalaya</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Mizoram</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Nagaland</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Nominated</td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">7</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Odisha</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+<td align="right">3</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Puducherry</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Punjab</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">7</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Rajasthan</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">4</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Sikkim</td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Tamil Nadu</td>
+<td align="right"></td>
+<td align="right">6</td>
+<td align="right">6</td>
+<td align="right"></td>
+<td align="right">6</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Telangana</td>
+<td align="right">3</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+<td align="right">2</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Tripura</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Uttar Pradesh</td>
+<td align="right">10</td>
+<td align="right"></td>
+<td align="right">10</td>
+<td align="right"></td>
+<td align="right">11</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>Uttarakhand</td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+<td align="right">1</td>
+<td align="right"></td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(79,79,79,0.03);">
+<td>West Bengal</td>
+<td align="right">5</td>
+<td align="right"></td>
+<td align="right">5</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right">6</td>
+</tr>
+</tbody></table>
+		</div>
+	
+	
+</section>
+
+<section data-state="section06" id="section06">
+				<h2>section06</h2>
+				<p>What the previous table tells us is that even if the NDA starts winning states that are with the UPA, the benefits won't be seen immediately. The elections for the Rajya Sabha seats of a particular state are held in different years, so any impact will only be seen gradually.</p>
+		<div id='section06_container'></div>
+		<p>The chart above is an attempt to calculate what the Rajya Sabha numbers of the UPA and NDA will be over the coming years, given what we know about the party composition of different state assemblies. If an RS seat is up for election from a state after the current assembly term is over, nothing can be said about where it will go, so it's given to neither the NDA nor UPA. </p>
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section06', function() {
+
+//code from https://bl.ocks.org/d3noob/4db972df5d7efc7d611255d1cc6f3c4f
+
+// Get the data
+d3.csv("data/alliances_strength_combined.csv", function(error, data) {
+  if (error) throw error;
+
+var vh = window.innerHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+
+
+var margin = {top: 2*vh, right: 2*vh, bottom: 3*vh, left: 6*vh},
+    width = (50*vh) - margin.left - margin.right,
+    height = (25*vh) - margin.top - margin.bottom;
+
+
+// parse the date / time
+var parseTime = d3.timeParse("%d-%m-%Y");
+
+// set the ranges
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+
+
+// append the svg obgect to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3
+     .select('#section06_container')
+     .html('')
+	.append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+
+  // format the data
+  data.forEach(function(d) {
+      d.date = parseTime(d.date);
+      d.upa = +d.upa;
+      d.nda = +d.nda;
+  });
+
+  // Scale the range of the data
+  x.domain(d3.extent(data, function(d) { return d.date; }));
+  y.domain([0, d3.max(data, function(d) {
+	  return Math.max(d.upa, d.nda); })]);
+
+// define the 1st line
+var valueline = d3.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.nda); })
+    ;
+
+// define the 2nd line
+var valueline2 = d3.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.upa); })
+    ;
+
+
+
+  // Add the valueline path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      .style('stroke-dasharray','5,5,1,5')
+      .attr("d", valueline);
+
+  // Add the valueline2 path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      //.style('stroke-dasharray','1,1')
+      .attr("d", valueline2);
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x))
+      .attr('class','axis')
+      ;
+
+  // Add the Y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y))
+      .attr('class','axis')
+      ;
+
+     // text label for the y axis
+  svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0 - (5*vh))
+      .attr("x", 0 - (height / 2))
+      .attr("dy", 1*vh)
+      .style("text-anchor", "middle")
+      .attr('class','svgtext')
+      .text("RS seats")
+      ; 
+
+     // text label for the x axis
+  /*
+  svg.append("text")             
+      .attr("transform",
+            "translate(" + (width/2) + " ," + 
+                           (height + margin.top + 1*vh) + ")")
+      .style("text-anchor", "middle")
+      .attr('class','svgtext')
+      .text("Date")
+      ; */
+
+
+      svg
+    .append("text")
+    .attr("x", 0.1 * width)
+    .attr("y", 0.1 * height)
+    .attr("text-anchor", "start")
+    .text('--NDA')
+    .attr('class','svgtext')
+    ;
+
+
+      svg
+    .append("text")
+    .attr("x", 0.1 * width)
+    .attr("y", 0.4 * height)
+    .attr("text-anchor", "start")
+    .text('--UPA')
+    .attr('class','svgtext')
+    ;
+
+});
+
+
+	
+	} );
+
+	</script>					
+	
+</section>
+
+<section data-state="section07" id="section07">
+				<h2>section07</h2>
+				<p>The chart below is similar to the previous chart, in that it also tries to determine what the strengths of the UPA and NDA will be over the coming years. What it does differently is that this chart assumes that in whichever states that are going to the polls in the coming years, the composition of the assembly remains the same. So it's an experiment that lets us know how things would turn out if parties retained their seats in the different state assemblies.</p>
+		<div id='section07_container'></div>
+		<p>Some info on the chart</p>
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section07', function() {
+
+// Get the data
+d3.csv("data/alliances_strength_combined.csv", function(error, data) {
+  if (error) throw error;
+
+var vh = window.innerHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+
+var margin = {top: 2*vh, right: 2*vh, bottom: 3*vh, left: 6*vh},
+    width = (50*vh) - margin.left - margin.right,
+    height = (25*vh) - margin.top - margin.bottom;
+
+
+// parse the date / time
+var parseTime = d3.timeParse("%d-%m-%Y");
+
+// set the ranges
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+
+
+// append the svg obgect to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3
+     .select('#section07_container')
+     .html('')
+	.append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+
+  // format the data
+  data.forEach(function(d) {
+      d.date = parseTime(d.date);
+      d.upa = +d.upax;
+      d.nda = +d.ndax;
+  });
+
+  // Scale the range of the data
+  x.domain(d3.extent(data, function(d) { return d.date; }));
+  y.domain([0, d3.max(data, function(d) {
+	  return Math.max(d.upax, d.ndax); })]);
+
+// define the 1st line
+var valueline = d3.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.ndax); })
+    ;
+
+// define the 2nd line
+var valueline2 = d3.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.upax); })
+    ;
+
+
+
+  // Add the valueline path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      .style('stroke-dasharray','5,5,1,5')
+      .attr("d", valueline);
+
+  // Add the valueline2 path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      //.style('stroke-dasharray','1,1')
+      .attr("d", valueline2);
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x))
+      .attr('class','axis')
+      ;
+
+  // Add the Y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y))
+      .attr('class','axis')
+      ;
+
+     // text label for the y axis
+  svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0 - (5*vh))
+      .attr("x", 0 - (height / 2))
+      .attr("dy", 1*vh)
+      .style("text-anchor", "middle")
+      .attr('class','svgtext')
+      .text("RS seats")
+      ; 
+
+     // text label for the x axis
+  /*
+  svg.append("text")             
+      .attr("transform",
+            "translate(" + (width/2) + " ," + 
+                           (height + margin.top + 1*vh) + ")")
+      .style("text-anchor", "middle")
+      .attr('class','svgtext')
+      .text("Date")
+      ; */
+
+
+      svg
+    .append("text")
+    .attr("x", 0.1 * width)
+    .attr("y", 0.1 * height)
+    .attr("text-anchor", "start")
+    .text('--NDA')
+    .attr('class','svgtext')
+    ;
+
+
+      svg
+    .append("text")
+    .attr("x", 0.1 * width)
+    .attr("y", 0.4 * height)
+    .attr("text-anchor", "start")
+    .text('--UPA')
+    .attr('class','svgtext')
+    ;
+
+});
+	
+	} );
+
+	</script>					
+	
+</section>
+
+
+
+<section data-state="section03" id="section03">
+				<h2>P.S. The Rajya Sabha elections are incredibly complex!</h2>
+				<div id='section03_container'></div>
+				<p>Crudely put, the number of seats a party or coalition gets in a Rajya Sabha election is roughly proportionate to the number of seats it has in a state assembly. But that's just the tip of the iceberg, as you learn how the election is an example of the <a href="https://www.opavote.com/methods/single-transferable-vote">'single transferable vote'</a> (STV) system, how the Rajya Sabha election uses a particular variant of STV called the <a href="http://www.abc.net.au/elections/tas/2006/guide/hareclark.htm">'Hare-Clark system'</a> and how the number of votes a candidate needs to get elected is called the <a href="http://faculty.georgetown.edu/kingch/Electoral_Systems.htm">'Droop quota'</a>, the formula for which is pictured above. A detailed explanation is available in this <a href="http://eci.nic.in/eci_main/ElectoralLaws/HandBooks/Handbook_For_Returning_Officers(Council_Elections).pdf#page=407">Election Commission handbook.</a></p>
+		<h3><a href="http://github.com/shijithpk/">SOURCES, CREDITS & CODE</a></h3>
+		<div id='section03b_container' ></div>
+			
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section03', function() {
+
+var vh = window.innerHeight/100;
+
+// set the dimensions and margins of the graph
+var margin1 = {top: 0*vh, right: 0*vh, bottom: 0*vh, left: 0*vh},
+    width1 = (48*vh) - margin1.left - margin1.right,
+    height1 = (15*vh) - margin1.top - margin1.bottom
+    ;
+
+var svg1 = d3
+          .select('#section03_container')
+              .html('')
+				.append("svg")
+			    .attr("width", width1 + margin1.left + margin1.right)
+			    .attr("height", height1 + margin1.top + margin1.bottom)
+			  	.append("g")
+			    .attr("transform", 
+			          "translate(" + margin1.left + "," + margin1.top + ")")
+			    ;
+
+
+
+		d3.xml("svgs/quota_image_min.svg", function(error, xml) {
+        if (error) {console.log(error); return;}
+
+var svg_node = xml
+                .getElementsByTagName("svg")[0]
+                ;
+
+				svg1
+				  .node()
+				  .appendChild(svg_node)
+				  ;
+
+      d3
+       .select("#path5163")
+       .attr("fill", "#4f4f4f")
+       .attr("fill-opacity","1")
+          ;
+
+});
+
+
+var margin2 = {top: 0*vh, right: 0*vh, bottom: 0*vh, left: 0*vh},
+    width2 = (48*vh) - margin2.left - margin2.right,
+    height2 = (15*vh) - margin2.top - margin2.bottom
+    ;
+
+var svg2 = d3
+          .select('#section03b_container')
+              .html('')
+				.append("svg")
+			    .attr("width", width2 + margin2.left + margin2.right)
+			    .attr("height", height2 + margin2.top + margin2.bottom)
+				.append("g")
+			    .attr("transform", 
+			          "translate(" + margin2.left + "," + margin2.top + ")")
+			    .append("a")
+				.attr("xlink:href", "http://www.wionews.com")
+			    ;
+
+/*
+		  var svg2 = d3
+              .select('#section03b_container')
+              .html('')
+              .append('svg')
+              .attr('height', window.innerHeight * 0.1)
+    		  //.attr('width', window.innerHeight * 0.8)
+    		    ;
+*/
+
+		d3.xml("svgs/wion_hor_min.svg", function(error, xml) {
+        if (error) {console.log(error); return;}
+
+			var svg_node = xml
+                .getElementsByTagName("svg")[0]
+                ;
+
+				svg2
+				  .node()
+				  .appendChild(svg_node)
+				  ;
+
+/*      d3
+       .select("#path5162")
+       .attr("fill", "#4f4f4f")
+       .attr("fill-opacity","1")
+          ; */
+
+});
+	
+	} );
+
+	</script>					
+	
+</section>
+
+
+<!--
+
+<section data-state="section10" id="section10">
+				<h2>section10</h2>
+		<div id='section10_container'></div>
+	<script type="text/javascript">
+	Reveal.addEventListener( 'section10', function() {
+
+		//PUT ALL THE D3 CODE AFTER THIS CURLY BRACE
+	
+	} );
+
+	</script>					
+	
+</section>
+
+-->
+
+</section>
+
+			</div>
+		</div>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				
+				// Display the page number of the current slide
+				//slideNumber: true,
+				slideNumber: 'c/t',
+				
+				// Display controls in the bottom right corner
+				controls: false,
+
+				//check if there's a setting to have that dot indicator instead
+				progress: false,
+				
+				// Push each slide change to the browser history
+				history: false,
+
+				// Enable keyboard shortcuts for navigation
+				keyboard: true,
+				
+				// Vertical centering of slides
+				center: true,
+
+				// Enables touch navigation on devices with touch input
+				touch: true,
+
+				// Enable slide navigation via mouse wheel
+				mouseWheel: true,
+
+				// Transition style for full page slide backgrounds
+				backgroundTransition: 'convex', // none/fade/slide/convex/concave/zoom
+				
+				// Hides the address bar on mobile devices
+				hideAddressBar: true,
+
+			    //width: 1024,
+			    //height: 768,
+			    
+			    //height: window.innerHeight * 0.9,
+				//width: window.innerHeight * 0.57
+			    margin: 0.04,
+				minScale: 0.2,
+				maxScale: 2.0,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/convex/zoom/linear/fade/slide/none
+				//another option is 'slide', none of the others look right
+
+				// Parallax scrolling
+				
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// The display mode that will be used to show slides
+				 display: 'block'
+			
+			});
+
+			   Reveal.configure({
+							     height: window.innerHeight,
+							     width: window.innerHeight * 0.5
+							   })
+			   				;
+
+
+// d3.select(self.frameElement).style("height", "768px");
+
+		</script>
+
+	</body>
+</html>
