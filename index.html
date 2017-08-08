@@ -5,7 +5,7 @@
 		<title>What do the Rajya Sabha election results mean for national politics?/REWRITE</title>
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no">
 
 
 <script type="text/javascript">
@@ -41,6 +41,7 @@
 <!-- seems reveal.js relies on head.js for dependency loading -->
 		<script src="js/head.min.js"></script>
 		<script src="js/reveal_modified.js"></script>
+		<script src="js/W.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.min.js"></script>
 		<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script> --> 
 
@@ -60,7 +61,7 @@
 	<script type="text/javascript">
 	Reveal.addEventListener( 'section01', function() {
 
-var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit
+var vh = W.getViewportHeight()/100 //creating a duplicate viewport height unit
 
 // set the dimensions and margins of the graph
 var margin = {top: 0*vh, right: 1*vh, bottom: 0*vh, left: 1*vh},
@@ -254,7 +255,7 @@ var svg_node = xml
 d3.csv("data/rs_strength_bar_chart.csv", function(data) {
 
 
-var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit
+var vh = W.getViewportHeight()/100 //creating a duplicate viewport height unit
 
 
 var margin = {top: 2*vh, right: 3*vh, bottom: 4*vh, left: 8*vh},
@@ -418,7 +419,7 @@ svg
 
 		d3.json("data/india_4_rs.geojson", function (json) {
 
-			var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+			var vh = W.getViewportHeight()/100 //creating a duplicate viewport height unit, basically a multiplicative factor
 
 var margin = {top: 0*vh, right: 0*vh, bottom: 1*vh, left: 0*vh},
     w = (50*vh) - margin.left - margin.right,
@@ -933,7 +934,7 @@ map.append("text")
 d3.csv("data/alliances_strength_combined.csv", function(error, data) {
   if (error) throw error;
 
-var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+var vh = W.getViewportHeight()/100 //creating a duplicate viewport height unit, basically a multiplicative factor
 
 
 var margin = {top: 2*vh, right: 2*vh, bottom: 3*vh, left: 6*vh},
@@ -1080,7 +1081,7 @@ var valueline2 = d3.line()
 d3.csv("data/alliances_strength_combined.csv", function(error, data) {
   if (error) throw error;
 
-var vh = document.documentElement.clientHeight/100 //creating a duplicate viewport height unit, basically a multiplicative factor
+var vh = W.getViewportHeight()/100 //creating a duplicate viewport height unit, basically a multiplicative factor
 
 var margin = {top: 2*vh, right: 2*vh, bottom: 3*vh, left: 6*vh},
     width = (50*vh) - margin.left - margin.right,
@@ -1224,7 +1225,7 @@ var valueline2 = d3.line()
 	<script type="text/javascript">
 	Reveal.addEventListener( 'section03', function() {
 
-var vh = document.documentElement.clientHeight/100;
+var vh = W.getViewportHeight()/100;
 
 // set the dimensions and margins of the graph
 var margin1 = {top: 0*vh, right: 0*vh, bottom: 0*vh, left: 0*vh},
@@ -1289,8 +1290,8 @@ var svg2 = d3
               .select('#section03b_container')
               .html('')
               .append('svg')
-              .attr('height', document.documentElement.clientHeight * 0.1)
-    		  //.attr('width', document.documentElement.clientHeight * 0.8)
+              .attr('height', W.getViewportHeight() * 0.1)
+    		  //.attr('width', W.getViewportHeight() * 0.8)
     		    ;
 */
 
@@ -1386,7 +1387,7 @@ var svg2 = d3
 			    
 			    //height:window.innerHeight*0.9,
 				//width:window.innerHeight*0.57
-			    margin: 0.03,
+			    margin: 0.04,
 				minScale: 0.5,
 				maxScale: 2.0,
 
@@ -1408,9 +1409,9 @@ var svg2 = d3
 			   Reveal.configure({
 							     //height: window.innerHeight,
 							     //width: window.innerHeight * 0.5
-							     height: document.documentElement.clientHeight,
-							     width: document.documentElement.clientHeight * 0.5
-							     
+							     height: W.getViewportHeight(),
+							     width: W.getViewportHeight() * 0.5
+							      
 							   })
 			   				;
 
