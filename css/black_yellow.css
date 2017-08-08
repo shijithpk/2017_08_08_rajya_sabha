@@ -26,6 +26,13 @@ body {
   text-decoration: underline;
 }
 
+  .reveal .slides {
+ /* height: 100%; */
+  top: 0;
+  margin-top: 0;
+}
+
+
 
 .reveal .btn {
   -webkit-border-radius: 0.6vh;
@@ -110,6 +117,8 @@ text.legend {
   color: #ffda29;
   background: #4f4f4f;
   text-shadow: none; }
+
+
 
 .reveal .slides > section,
 .reveal .slides > section > section {

@@ -36,6 +36,7 @@
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/black_yellow.css" id="theme">
+		<link rel="stylesheet" href="css/additional.css" id="theme">
 
 
 <!-- seems reveal.js relies on head.js for dependency loading -->
@@ -1387,21 +1388,14 @@ var svg2 = d3
 			    
 			    //height:window.innerHeight*0.9,
 				//width:window.innerHeight*0.57
-			    margin: 0.3,
+			    margin: 0.1,
 				minScale: 0.1,
-				maxScale: 1.5,
+				maxScale: 1.0,
 
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
 				transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/convex/zoom/linear/fade/slide/none
 				//another option is 'slide', none of the others look right
 
-				// Parallax scrolling
-				
-				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
-				
-				// parallaxBackgroundSize: '2100px 900px',
-
-				// The display mode that will be used to show slides
 				 display: 'block'
 			
 			});
@@ -1409,8 +1403,10 @@ var svg2 = d3
 			   Reveal.configure({
 							     //height: window.innerHeight,
 							     //width: window.innerHeight * 0.5
-							     height: W.getViewportHeight() * 0.8,
-							     width: W.getViewportHeight() * 0.5
+							     //height: 550,
+							     //width: 340
+							     height: W.getViewportHeight(),
+							     width: W.getViewportHeight()* 0.5
 							      
 							   })
 			   				;
