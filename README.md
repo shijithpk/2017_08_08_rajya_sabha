@@ -1,4 +1,4 @@
-This is the code and data for a slideshow on the Rajya Sabha elections to be published on [wionews.com](http://www.wionews.com).
+This is the code and data for a slideshow on the Rajya Sabha elections published on [wionews.com](http://projects.wionews.com/how-will-rajya-sabha-elections-affect-nda-and-upa-numbers/).
 
 All the data on party numbers and alliances comes from the [Election commission](https://eci.nic.in), news reports and the occasional wikipedia entry. :)
 
