@@ -1,6 +1,6 @@
 This is the code and data for a slideshow on the Rajya Sabha elections to be published on [wionews.com](http://www.wionews.com).
 
-All the data comes from the [Election commission](https://eci.nic.in) and news reports.
+All the data on party numbers and alliances comes from the [Election commission](https://eci.nic.in), news reports and the occasional wikipedia entry. :)
 
 First came up with the idea for this at a Huffington Post hackathon after the elections in March 2017. [Guneet Narula](https://twitter.com/guneetnarula) of Datameet and I even worked on a calculator to predict Rajya Sabha seats, we put out an [alpha version](https://sputznik.io/rajyasabhacal/), might come back to it soon. 
 
