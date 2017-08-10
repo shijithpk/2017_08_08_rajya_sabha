@@ -10,6 +10,6 @@ The slideshow is kind of designed with mobiles in mind, but should look fine on 
 
 A detailed illustration of how the Rajya Sabha elections are done and how counting takes place is available in this [Election Commission handbook](http://eci.nic.in/eci_main/ElectoralLaws/HandBooks/Handbook_For_Returning_Officers(Council_Elections).pdf#page=407). Other official explanations of the elections are available [here](http://bit.ly/2hDJubc) and [here](http://rajyasabha.nic.in/rsnew/rsat_work/CHAPTER—3.pdf#page=19), but the handbook has the most exhaustive explanation.
 
-If you want to know how I analysed the data, the [ipython/jupyter notebook](data/alliance_strength_over_time.ipynb) I used is available in the repository. It's commented, don't know how readable the code will be to someone else, but you're welcome to have a look.
+If you want to know how I analysed the data, the [ipython/jupyter notebook](https://nbviewer.jupyter.org/github/shijithpk/2017_08_08_rajya_sabha/blob/master/data/alliance_strength_over_time.ipynb) I used is available in the repository. It's commented, don't know how readable the code will be to someone else, but you're welcome to have a look.
 
 The image for the Rajya Sabha chamber used in the first slide was taken from a photo gallery on the Rajya Sabha [website](http://rajyasabha.nic.in/rsnew/picture_gallery/162.asp).
